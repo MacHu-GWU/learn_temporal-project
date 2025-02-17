@@ -1,0 +1,2 @@
+# Core dependencies goes here
+temporalio>=1.9.0,<2.0.0
